@@ -1,0 +1,3 @@
+<!--#set var="title" value="401 Unauthorized" -->
+<!--#set var="msg" value="The requested page requires authentication:" -->
+<!--#include virtual="cp_errordocument.shtml" -->

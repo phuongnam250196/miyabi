@@ -1,0 +1,254 @@
+@media (max-width: 1199.98px) {
+	#about .media .media-body h4 {
+		margin-bottom: 10px;
+	}
+	#about .media .media-body .media-text p {
+		margin-bottom: 8px;
+	}
+	.box-footer .nav .nav-item .nav-link {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+@media (max-width: 991.98px) {
+	#bar .container .tab-content .tab-pane .owl-tab .owl-nav button img {
+		width: 10px;
+	}
+	#bar .container .tab-content .tab-pane .owl-tab .owl-nav .owl-next {
+		right: 0;
+		background: #fff;
+		padding: 5px 16px !important;
+	}
+	#bar .container .tab-content .tab-pane .owl-tab .owl-nav .owl-prev {
+		left: 0;
+		background: #fff;
+		padding: 5px 16px !important;
+	}
+	#about .container, #bar .container, #price-system .container, #reservation .container {
+		max-width: 720px;
+	}
+	#about .media .media-img {
+		margin-right: 15px;
+		width: 270px;
+	}
+	#about .media .media-body .media-text p {
+		font-size: 12px;
+	}
+	#header .header-row .navbar .navbar-collapse .navbar-nav .nav-item .nav-link {
+		font-size: 13px;
+		padding: 5px 5px;
+	}
+	#header .header-row .justify-content-end .header-address {
+		margin-right: 20px;
+	}
+	#about .media {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#bar .container .nav .nav-item .nav-link {
+		font-size: 16px;
+	}
+	#price-system .container .price-free-time .price-free-time-hour {
+		font-size: 45px;
+	}
+	#price-system .container .price-free-time .price-free-time-row .price-free-time-col h5 {
+		font-size: 16px;
+	}
+	#price-system .container .price-free-time .price-free-time-row .price-free-time-col .price-free-time-col-content p {
+		font-size: 16px;
+	}
+	#price-system .container .price-free-time {
+		padding-bottom: 60px;
+	}
+	.box-footer .nav .nav-item .nav-link {
+	    padding-left: 8px;
+	    padding-right: 8px;
+		font-size: 12px;
+	}
+	#menu_page .container .owl-menu-page .owl-nav button img {
+		width: 10px !important;
+	}
+	#menu_page .container .owl-menu-page .owl-nav .owl-next {
+		right: 0 !important;
+		background: #fff;
+		padding: 5px 16px !important;
+	}
+	#menu_page .container .owl-menu-page .owl-nav .owl-prev {
+		left: 0 !important;
+		background: #fff;
+		padding: 5px 16px !important;
+	}
+	.menu_page_div {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+	#photo-library .photo-list .photo-col .photo-col-pos .photo_bg {
+	    height: 150px !important;
+	}
+}
+@media (max-width: 767.98px) {
+	#header .header-row .header-link-img img {
+		width: inherit;
+		margin: 0 auto;
+	}
+	#header .header-col {
+		text-align: center;
+	}
+	#header .header-row .justify-content-end {
+		padding-top: 15px;
+    	justify-content: space-between!important;
+	}
+	#header .header-row .navbar .navbar-collapse .navbar-nav .nav-item .nav-link {
+		padding-left: 0;
+	}
+	#about .container, #bar .container, #price-system .container, #reservation .container {
+		max-width: 540px;
+	}
+	#about .media .media-img {
+		width: 200px;
+	}
+	#about .media .media-body h4 {
+		margin-bottom: 0;
+	}
+	#about .media .media-body .media-text p {
+		font-size: 9px;
+	}
+	#bar .container .nav .nav-item .nav-link {
+		font-size: 12px;
+	}
+	#price-system .container .price-free-time .price-free-time-row .price-free-time-col h5 {
+		font-size: 13px;
+	}
+	#price-system .container .price-free-time .price-free-time-row .price-free-time-col .price-free-time-col-content p {
+		font-size: 13px;
+	}
+	#price-system .container .price-free-time .price-free-time-hour {
+		font-size: 40px;
+	}
+	#price-system .container .table {
+		width: 720px;
+	}
+	#price-system .container .table tbody tr td {
+		padding: 25px 15px;
+	}
+	.box-footer .nav .nav-item:after {
+		border-right: none;
+	}
+	.box-footer .nav {
+		flex-direction: column;
+	}
+	.box-footer .nav .nav-item .nav-link {
+		padding-left: 0;
+		padding-right: 0;
+		font-size: 15px;
+	}
+	#photo-library .photo-list .photo-col a img {
+		width: 40px;
+	}
+	#about .media .media-body h4 {
+		padding-left: 60px;
+	}
+	#reservation .container .media label {
+ 		font-size: 14px;
+ 	}
+ 	#photo-library .photo-list .photo-col .photo-col-pos .photo_bg {
+	    height: 110px !important;
+	}
+}
+@media (max-width: 575.98px) {
+	#about .container, #bar .container, #price-system .container, #reservation .container {
+		max-width: 100%;
+	}
+	
+}
+@media (max-width: 420.98px) {
+	#about {
+		padding-top: 60px;
+	}
+	#about .media {
+		flex-direction: column-reverse;
+	}
+	#about .media .media-body h4 {
+		text-align: center;
+		padding-left: 0;
+		margin-bottom: 10px;
+	}
+	#about .media .media-body .media-text p {
+		font-size: 14px;
+	}
+	#about .media .media-img {
+		width: 100%;
+		padding-top: 15px;
+		margin-right: 0;
+	}
+	#header .header-row .justify-content-end .header-address {
+		margin-right: 0;
+		font-size: 10px;
+	}
+	#header .header-row .justify-content-end .header-share img {
+		 width: 21px;
+	}
+	#bar .container .nav .nav-item {
+	    padding-right: 3px;
+	    padding-left: 3px;
+	}
+	#bar .container .nav .nav-item .nav-link {
+		font-size: 9px;
+	}
+	#reservation .container .media {
+		display: block !important;
+	}
+	#reservation .container .media label {
+		width: inherit;
+		margin-bottom: 0px;
+		font-size: 14px;
+	}
+	#reservation .container .media .media-body .form-group {
+		margin-bottom: 16px;
+	}
+	.box-footer .nav .nav-item .nav-link {
+		font-size: 14px;
+	}
+	#price-system .price-free-time-col {
+		-ms-flex: 0 0 100%;
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	    margin-bottom: 15px;
+	} 
+	#price-system .container .price-free-time .price-free-time-row .price-free-time-col h5 {
+		margin-bottom: 5px;
+	}
+	#price-system .container .table tbody tr td {
+		font-size: 14px;
+	}
+	#price-system .container .table {
+	    width: 650px;
+	}
+	#photo-library .photo-list .photo-col {
+		-ms-flex: 0 0 50%;
+	    flex: 0 0 50%;
+	    max-width: 50%;
+	}
+	#photo-library .photo-list .photo-col .photo-col-pos .photo_bg {
+	    height: 140px !important;
+	}
+}
+@media (max-width: 375.98px) {
+	#header .header-row .justify-content-end .header-address, header .header-row .justify-content-end .header-share {
+		display: none !important;
+	}
+	#photo-library .photo-list .photo-col .photo-col-pos .photo_bg {
+	    height: 125px !important;
+	}
+}
+@media (max-width: 320.98px) {
+	#bar .container .nav .nav-item .nav-link {
+		font-size: 7px;
+		height: 35px;
+		line-height: 35px;
+	}
+	
+	.box-footer .nav .nav-item .nav-link {
+		font-size: 12px;
+	}
+}
